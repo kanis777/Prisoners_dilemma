@@ -30,6 +30,7 @@ This project provides valuable insights into the dynamics of strategic decision-
 
 ## Authors
 
-- Bharathi Shankar J (21PD04)
-- Dhivyadharshini B (21PD06)
-- Kanishka K (21PD18)
+- Bharathi Shankar J
+- Kanishka K
+- Dhivyadharshini B
+
